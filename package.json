@@ -1,0 +1,27 @@
+{
+  "name": "console-show",
+  "version": "0.1.0",
+  "description": "",
+  "main": "show.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kankungyip/console-show"
+  },
+  "keywords": [
+    "ansi",
+    "terminal",
+    "colors"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "latest"
+  },
+  "author": "Kan Kung-Yip <kan@kungyip.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kankungyip/console-show/issues"
+  },
+  "homepage": "https://github.com/kankungyip/console-show"
+}
